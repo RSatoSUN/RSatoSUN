@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ### Boas vindas ao meu perfil 💙❤️💜
+  ###Boas vindas ao meu perfil 💙❤️💜
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Objetivo; estou estudando progrmação e hei de trabalhar no ramo.**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **VSCode e Unity.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui está meu email caso queira me contatar:00001124253087sp@al.educacao.sp.gov.br ⤵️
 </p>
 
 <p align="left">
