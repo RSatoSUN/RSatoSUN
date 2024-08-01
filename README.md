@@ -6,9 +6,9 @@
 
 <p align="left">
   🦄 *Objetivo; estou estudando progrmação e hei de trabalhar no ramo.*
+</p>
               - Estou me desenvolvendo na linguagem JavaScript.
               - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
-
 </p>
 
 <p align="left">
@@ -16,7 +16,9 @@
 </p>
 
 ![Dia Médio estudando na escola](https://i.imgur.com/QXjbC9n.gif)
+</p>
 Eu após passar um dia na escola.
+</p>
 <p align="left">
   💌 Aqui está meu email caso queira me contatar:00001124253087sp@al.educacao.sp.gov.br ⤵️
 </p>
