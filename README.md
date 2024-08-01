@@ -16,6 +16,7 @@
   💼 Ferramentas: **VSCode e Unity.**
 </p>
 ![Dia Médio estudando na escola](https://i.imgur.com/QXjbC9n.gif)
+
 </p>
 Eu após passar um dia na escola.
 </p>
