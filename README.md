@@ -12,6 +12,8 @@
   💼 Ferramentas: **VSCode e Unity.**
 </p>
 
+![Dia Médio estudando na escola](https://i.imgur.com/QXjbC9n.gif)
+
 <p align="left">
   💌 Aqui está meu email caso queira me contatar:00001124253087sp@al.educacao.sp.gov.br ⤵️
 </p>
