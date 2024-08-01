@@ -8,13 +8,13 @@
   🦄 *Objetivo; estou estudando progrmação e hei de trabalhar no ramo.*
 </p>
               - Estou me desenvolvendo na linguagem JavaScript.
+</p>
               - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 </p>
 
 <p align="left">
   💼 Ferramentas: **VSCode e Unity.**
 </p>
-
 ![Dia Médio estudando na escola](https://i.imgur.com/QXjbC9n.gif)
 </p>
 Eu após passar um dia na escola.
